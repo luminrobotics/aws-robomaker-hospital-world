@@ -96,9 +96,9 @@
             </include>
             <pose>-11.0086 -21.7566 0 0 -0 1.55358</pose>
         </model>
-        <model name="CGMClassic_1">
+        <model name="ElderMalePatientCGM_1">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>11.1777 -18.4129 0 0 0 -1.5656</pose>
         </model>
@@ -108,9 +108,9 @@
             </include>
             <pose>9.07005 -10.3582 -7.54989e+08 -2e-06 0 0</pose>
         </model>
-        <model name="CGMClassic_2">
+        <model name="ElderMalePatientCGM_2">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>11.1179 -14.6493 0 0 0 -1.5656</pose>
         </model>
@@ -174,9 +174,9 @@
             </include>
             <pose>11.4301 3.56328 0 0 -0 0</pose>
         </model>
-        <model name="CGMClassic_3">
+        <model name="ElderMalePatientCGM_3">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.2304 -21.1134 0 0 -0 1.56641</pose>
         </model>
@@ -432,9 +432,9 @@
             </include>
             <pose>-10.8133 -13.5925 0.001656 0 -0 -0.025052</pose>
         </model>
-        <model name="CGMClassic_4">
+        <model name="ElderMalePatientCGM_4">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.0878 -7.00992 0 0 -0 1.56296</pose>
         </model>
@@ -510,15 +510,15 @@
             </include>
             <pose>-11.1876 4.2888 0 0 -0 3.1387</pose>
         </model>
-        <model name="CGMClassic_5">
+        <model name="ElderMalePatientCGM_5">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.0106 8.9505 -0.008203 0.0004 -0.035019 1.56285</pose>
         </model>
-        <model name="CGMClassic_6">
+        <model name="ElderMalePatientCGM_6">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.025 7.10335 0 0 -0.035021 1.57427</pose>
         </model>
@@ -816,15 +816,15 @@
             </include>
             <pose>8.57644 9.83528 -1e-06 0 -1e-06 -1.5744</pose>
         </model>
-        <model name="CGMClassic_7">
+        <model name="ElderMalePatientCGM_7">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>10.6166 9.06291 -0.008203 0.0004 -0.035019 1.56285</pose>
         </model>
-        <model name="CGMClassic_8">
+        <model name="ElderMalePatientCGM_8">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>10.6006 6.90956 -0.008203 0.0004 -0.035019 1.56285</pose>
         </model>
@@ -942,9 +942,9 @@
             </include>
             <pose>11.3771 -7.38891 0.001655 -1e-06 -5e-06 3.11598</pose>
         </model>
-        <model name="CGMClassic_9">
+        <model name="ElderMalePatientCGM_9">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>11.3613 -21.8867 0 0 0 -1.5656</pose>
         </model>
@@ -1158,9 +1158,9 @@
             </include>
             <pose>-11.0086 -21.7566 3.0 0 -0 1.55358</pose>
         </model>
-        <model name="floor_1_CGMClassic_1">
+        <model name="floor_1_ElderMalePatientCGM_1">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>11.1777 -18.4129 3.0 0 0 -1.5656</pose>
         </model>
@@ -1170,9 +1170,9 @@
             </include>
             <pose>9.07005 -10.3582 -754988997.0 -2e-06 0 0</pose>
         </model>
-        <model name="floor_1_CGMClassic_2">
+        <model name="floor_1_ElderMalePatientCGM_2">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>11.1179 -14.6493 3.0 0 0 -1.5656</pose>
         </model>
@@ -1236,9 +1236,9 @@
             </include>
             <pose>11.4301 3.56328 3.0 0 -0 0</pose>
         </model>
-        <model name="floor_1_CGMClassic_3">
+        <model name="floor_1_ElderMalePatientCGM_3">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.2304 -21.1134 3.0 0 -0 1.56641</pose>
         </model>
@@ -1494,9 +1494,9 @@
             </include>
             <pose>-10.8133 -13.5925 3.001656 0 -0 -0.025052</pose>
         </model>
-        <model name="floor_1_CGMClassic_4">
+        <model name="floor_1_ElderMalePatientCGM_4">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.0878 -7.00992 3.0 0 -0 1.56296</pose>
         </model>
@@ -1572,15 +1572,15 @@
             </include>
             <pose>-11.1876 4.2888 3.0 0 -0 3.1387</pose>
         </model>
-        <model name="floor_1_CGMClassic_5">
+        <model name="floor_1_ElderMalePatientCGM_5">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.0106 8.9505 2.991797 0.0004 -0.035019 1.56285</pose>
         </model>
-        <model name="floor_1_CGMClassic_6">
+        <model name="floor_1_ElderMalePatientCGM_6">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>-11.025 7.10335 3.0 0 -0.035021 1.57427</pose>
         </model>
@@ -1878,15 +1878,15 @@
             </include>
             <pose>8.57644 9.83528 2.999999 0 -1e-06 -1.5744</pose>
         </model>
-        <model name="floor_1_CGMClassic_7">
+        <model name="floor_1_ElderMalePatientCGM_7">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>10.6166 9.06291 2.991797 0.0004 -0.035019 1.56285</pose>
         </model>
-        <model name="floor_1_CGMClassic_8">
+        <model name="floor_1_ElderMalePatientCGM_8">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>10.6006 6.90956 2.991797 0.0004 -0.035019 1.56285</pose>
         </model>
@@ -2004,9 +2004,9 @@
             </include>
             <pose>11.3771 -7.38891 3.001655 -1e-06 -5e-06 3.11598</pose>
         </model>
-        <model name="floor_1_CGMClassic_9">
+        <model name="floor_1_ElderMalePatientCGM_9">
             <include>
-                <uri>model://CGMClassic</uri>
+                <uri>model://ElderMalePatient</uri>
             </include>
             <pose>11.3613 -21.8867 3.0 0 0 -1.5656</pose>
         </model>
