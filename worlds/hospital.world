@@ -112,7 +112,7 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>11.1777 -18.4129 0 0 0 -1.5656</pose>
+            <pose>11.1777 -18.4129 0 0 0 -3.116476</pose>
         </model>
         <model name="StorageRack_1">
             <include>
@@ -124,7 +124,7 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>11.1179 -14.6493 0 0 0 -1.5656</pose>
+            <pose>11.1179 -14.6493 0 0 0 -3.116476</pose>
         </model>
         <model name="VisitorChair_1">
             <include>
@@ -190,7 +190,7 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>-11.2304 -21.1134 0 0 -0 1.56641</pose>
+            <pose>-11.2304 -21.1134 0 0 -0 3.116476</pose>
         </model>
         <model name="PotatoChipChair_1">
             <include>
@@ -448,7 +448,7 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>-11.0878 -7.00992 0 0 -0 1.56296</pose>
+            <pose>-11.0878 -7.00992 0 0 -0 3.116476</pose>
         </model>
         <model name="aws_robomaker_residential_Trash_01_1">
             <include>
@@ -526,13 +526,13 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>-11.0106 8.9505 -0.008203 0.0004 -0.035019 1.56285</pose>
+            <pose>-11.0106 8.9505 -0.008203 0.0004 -0.035019 3.116476</pose>
         </model>
         <model name="ElderLadyPatientCGM_6">
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>-11.025 7.10335 0 0 -0.035021 1.57427</pose>
+            <pose>-11.025 7.10335 0 0 -0.035021 3.116476</pose>
         </model>
         <model name="BedTable_1">
             <include>
@@ -832,13 +832,13 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>10.6166 9.06291 -0.008203 0.0004 -0.035019 1.56285</pose>
+            <pose>10.6166 9.06291 -0.008203 0.0004 -0.035019 3.116476</pose>
         </model>
         <model name="ElderLadyPatientCGM_8">
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>10.6006 6.90956 -0.008203 0.0004 -0.035019 1.56285</pose>
+            <pose>10.6006 6.90956 -0.008203 0.0004 -0.035019 3.116476</pose>
         </model>
         <model name="MetalCabinet_3">
             <include>
@@ -958,7 +958,7 @@
             <include>
                 <uri>model://ElderLadyPatient</uri>
             </include>
-            <pose>11.3613 -21.8867 0 0 0 -1.5656</pose>
+            <pose>11.3613 -21.8867 0 0 0 -3.116476</pose>
         </model>
         <model name="StorageRackCoverOpen_1">
             <include>
